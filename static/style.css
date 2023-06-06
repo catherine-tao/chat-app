@@ -184,7 +184,7 @@
   }
   
   #status.reconnecting::before {
-    content: "status: reconnecting";
+    content: "Status: Reconnecting";
   }
   
   #status.reconnecting {
