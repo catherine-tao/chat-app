@@ -1,0 +1,11 @@
+/Users/catherinetao/chat-app/chat-app/target/debug/deps/ubyte-5bd3852092d70bd5.rmeta: /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs
+
+/Users/catherinetao/chat-app/chat-app/target/debug/deps/libubyte-5bd3852092d70bd5.rlib: /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs
+
+/Users/catherinetao/chat-app/chat-app/target/debug/deps/ubyte-5bd3852092d70bd5.d: /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs /Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs
+
+/Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs:
+/Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs:
+/Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs:
+/Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs:
+/Users/catherinetao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs:
