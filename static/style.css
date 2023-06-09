@@ -105,8 +105,8 @@
   
   form * {
       height: 40px;
-      background: var(--fg-light);
-      color: var(--bg-dark);
+      background: var( --bg-dark);
+      color: var(--callout);
   }
   
   input {
@@ -150,7 +150,7 @@
       flex: 8 80%;
       width: 20%;
       background-color: var(--callout-dark);
-      color: #fff;
+      color: #020101;
   }
   
   #new-room button {
